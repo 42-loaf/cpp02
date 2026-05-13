@@ -1,5 +1,3 @@
-*This project has been created as part of the 42 curriculum by <login>.*
-
 # CPP Module 02
 
 ## Description
@@ -18,9 +16,7 @@ Through multiple exercises, this module explores:
 - Static member functions
 - Basic computational geometry
 
----
-
-# Project Structure
+### Project Structure
 
 ```text
 cpp02/
@@ -50,6 +46,8 @@ ex03
 
 Use of fixed-point arithmetic to determine whether a point lies inside a triangle.
 
+---
+
 ## Instructions
 
 Compilation flags:
@@ -57,8 +55,6 @@ Compilation flags:
 ```bash
 -Wall -Wextra -Werror -std=c++98
 ```
-
-Compilation
 
 Makefile Rules
 ```bash
@@ -68,7 +64,7 @@ make fclean # Remove object files and executable
 make re     # Rebuild the project
 ```
 
-# Key Concepts
+### Key Concepts
 Orthodox Canonical Form
 
 A class following the Orthodox Canonical Form implements:
@@ -93,6 +89,8 @@ Operator overloading allows custom classes to support operators such as:
 ```
 
 This makes user-defined types behave more naturally and improves code readability.
+
+---
 
 ## Resources
 
