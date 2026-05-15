@@ -6,12 +6,15 @@
 /*   By: lchambos <lchambos@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/05/13 15:20:03 by lchambos          #+#    #+#             */
-/*   Updated: 2026/05/13 15:42:49 by lchambos         ###   ########.fr       */
+/*   Updated: 2026/05/15 22:45:09 by lchambos         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FIXED_HPP
 # define FIXED_HPP
+
+# include <iostream>
+# include <string>
 
 class Fixed
 {
